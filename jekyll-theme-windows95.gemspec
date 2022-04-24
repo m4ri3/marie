@@ -3,11 +3,11 @@
 Gem::Specification.new do |spec|
   spec.name          = "jekyll-theme-windows95"
   spec.version       = "0.5.0"
-  spec.authors       = ["Ariel Santos"]
-  spec.email         = ["as-ariel@outlook.com"]
+  spec.authors       = [""]
+  spec.email         = [""]
 
-  spec.summary       = "A Jekyll theme inspired on the Windows95 UI."
-  spec.homepage      = "https://asantos07.github.io/jekyll-theme-windows95/"
+  spec.summary       = ""
+  spec.homepage      = ""
   spec.license       = "MIT"
   spec.metadata      = {
     "bug_tracker_uri"   => "https://github.com/asantos07/jekyll-theme-windows95/issues",
