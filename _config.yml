@@ -1,5 +1,5 @@
-url: http://127.0.0.1
-baseurl: /marie/
+url: http://127.0.0.1/marie/
+baseurl: 
 
 # variables
 title: XATSPACE FOR MARIE [TEMPLATE/TITLE]
