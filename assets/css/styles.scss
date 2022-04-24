@@ -17,10 +17,10 @@ body {
 }
 
 .post_list, .tag_list, .post_content, .intro {
-	background: #fff8ff;
+	background: #ffffff;
 	border-width: 2px;
 	border-style: ridge groove groove ridge;
-	border-color: #7f787f #fff8ff #fff8ff #7f787f;
+	border-color: #7f787f #ffffff #ffffff #7f787f;
 }
 .tag_list {
 	width: 28%;
@@ -57,7 +57,7 @@ body {
     padding:0 0 0 2px;
 }
 #tag-list li a {
-    background: #fff8ff;
+    background: #ffffff;
     display:block;
 }
 #tag-list li ul li {
@@ -83,7 +83,7 @@ body {
 }
 
 .hljs {
-	background: #fff8ff;
+	background: #ffffff;
 }
 .footer {
 	font-size: 12px;
@@ -194,14 +194,14 @@ body {
 	background-color: #cccccc;
 	border-width: 2px;
 	border-style: groove ridge ridge groove;
-	border-color: #fff8ff #000000 #000000 #fff8ff;
+	border-color: #ffffff #000000 #000000 #ffffff;
 } /* this will style the thumb, ignoring the track */
  
 ::-webkit-scrollbar-button {
 	background-color: #cccccc;
 	border-width: 2px;
 	border-style: groove ridge ridge groove;
-	border-color: #fff8ff #000000 #000000 #fff8ff;
+	border-color: #ffffff #000000 #000000 #ffffff;
 	background-position: center center;
 	background-repeat: no-repeat;
 

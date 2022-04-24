@@ -10,7 +10,7 @@ body {
 	margin-top: 20px;
 	background: #bfb8bf;
 	border: 2px solid;
-	border-color: #fff8ff #000000 #000000 #fff8ff;
+	border-color: #ffffff #000000 #000000 #ffffff;
 	padding: 2px 0;
 }
 .default_title, .post_title {
@@ -45,7 +45,7 @@ body {
 		height: 11px;
 		float: right;
 		border: 2px solid;
-		border-color: #fff8ff #000000 #000000 #fff8ff;
+		border-color: #ffffff #000000 #000000 #ffffff;
 
 		span {
 			font-size: 11px;
@@ -89,10 +89,10 @@ ul.topbar {
 	}
 }
 .post_list, .tag_list, .post_content {
-	background: #fff8ff;
+	background: #ffffff;
 	border-width: 2px;
 	border-style: ridge groove groove ridge;
-	border-color: #7f787f #fff8ff #fff8ff #7f787f;
+	border-color: #7f787f #ffffff #ffffff #7f787f;
 }
 .post_list {
 	width: 70.2%;
@@ -162,7 +162,7 @@ ul.topbar {
     padding:0 0 0 2px;
 }
 #tag-list li a {
-    background: #fff8ff;
+    background: #ffffff;
     display:block;
 }
 #tag-list li ul li {
@@ -281,7 +281,7 @@ ul.topbar {
 	}
 }
 .hljs {
-	background: #fff8ff;
+	background: #ffffff;
 }
 .footer {
 	font-size: 12px;
@@ -401,14 +401,14 @@ ul.topbar {
 	background-color: #cccccc;
 	border-width: 2px;
 	border-style: groove ridge ridge groove;
-	border-color: #fff8ff #000000 #000000 #fff8ff;
+	border-color: #ffffff #000000 #000000 #ffffff;
 } /* this will style the thumb, ignoring the track */
  
 ::-webkit-scrollbar-button {
 	background-color: #cccccc;
 	border-width: 2px;
 	border-style: groove ridge ridge groove;
-	border-color: #fff8ff #000000 #000000 #fff8ff;
+	border-color: #ffffff #000000 #000000 #ffffff;
 	background-position: center center;
 	background-repeat: no-repeat;
 
