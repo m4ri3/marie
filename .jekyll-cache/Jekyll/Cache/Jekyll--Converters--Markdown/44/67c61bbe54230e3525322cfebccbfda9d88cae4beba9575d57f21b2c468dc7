@@ -1,0 +1,37 @@
+I"r<h1 id="jekyll-theme-windows95">jekyll-theme-windows95</h1>
+<hr />
+<p>This is a <a href="https://jekyllrb.com/">Jekyll</a> theme inpired on the oldschool Windows 95 UI.</p>
+
+<h2 id="usage">Usage</h2>
+<p>(assume every snippet is inside a Jekyll front matter block)</p>
+<ul>
+  <li>Create an index.(html|md) file with this front matter:
+    <div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code>   
+ <span class="na">layout</span><span class="pi">:</span> <span class="s">default</span>
+ <span class="na">intro</span><span class="pi">:</span> <span class="no">true</span>
+   
+</code></pre></div>    </div>
+    <p>Place your bio/intro/summary here.</p>
+  </li>
+  <li>For every tag you want to use, create a HTML file in /tags, following this template:
+    <div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code>   
+ <span class="na">layout</span><span class="pi">:</span> <span class="s">tag</span>
+ <span class="na">tag</span><span class="pi">:</span> <span class="s">tag name</span>
+ <span class="na">permalink</span><span class="pi">:</span> <span class="s">/tag/name in url slug form/</span>
+   
+</code></pre></div>    </div>
+    <p>You can then put the tag on the YAML front matter in your posts.</p>
+  </li>
+  <li>Create another HTML tag file, but this time with this content:
+    <div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code>   
+ <span class="na">layout</span><span class="pi">:</span> <span class="s">all</span>
+ <span class="na">tag</span><span class="pi">:</span> 
+ <span class="na">permalink</span><span class="pi">:</span> <span class="s">/all/</span>
+   
+</code></pre></div>    </div>
+    <p>This creates a link to show all posts, ungrouped.</p>
+  </li>
+</ul>
+
+<p><strong>All done! Now you can use Jekyll just like you would with any other theme.</strong></p>
+:ET
