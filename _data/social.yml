@@ -1,6 +1,22 @@
 - name: LINK 1
-  link: https://xat.com/Help
-- name: Github
-  link: https://github.com/asantos07/jekyll-theme-windows95/
-- name: RubyGems
-  link: https://rubygems.org/gems/jekyll-theme-windows95
+  link: [LINK 1]
+- name: LINK 2
+  link: [LINK 2]
+- name: LINK 3
+  link: [LINK 3]
+- name: LINK 4
+  link: [LINK 4]
+- name: LINK 5
+  link: [LINK 5]
+- name: LINK 6
+  link: [LINK 6]
+- name: LINK 7
+  link: [LINK 7]
+- name: LINK 8
+  link: [LINK 8]
+- name: LINK 9
+  link: [LINK 9]
+- name: LINK 10
+  link: [LINK 10]
+- name: AND SO ON...
+  link: [AND SO ON...]
