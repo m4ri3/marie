@@ -1,16 +1,16 @@
 .window>.window_title {
-	background: #808080;
+	background: #ff71f1;
 }
 
 .window:hover>.window_title {
-	background: #00007f;
+	background: #ffa5f6;
 }
 
 .window_title {
 	padding: 3px 4px 3px 4px;
 	position: relative;
 	h1 {
-		color: #bfb8bf;
+		color: #900082;
 		font-size: 14px;
 		font-weight: bold;
 	}
@@ -53,7 +53,7 @@
 		margin-bottom: 15px;
 	}
 	a {
-		color: #0000ff;
+		color: #bfb8bf;
 		margin-bottom: 15px;
 	}
 	h1 {
