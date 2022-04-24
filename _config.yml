@@ -1,9 +1,9 @@
 permalink: /:year:month:day/:title
 url: https://hermemories.github.io/marie/
-baseurl: 
+baseurl: /
 
 # variables
-name: UPDATEDYour Site Name
+name: Your Site Name
 description: Your description here
 google_verification: null
 
