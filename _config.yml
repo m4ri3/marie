@@ -1,6 +1,6 @@
 permalink: /:year:month:day/:title
-url: https://hermemories.github.io
-baseurl: /marie/
+url: https://hermemories.github.io/marie/
+baseurl: 
 
 # variables
 name: UPDATEDYour Site Name
