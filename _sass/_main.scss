@@ -398,14 +398,14 @@ ul.topbar {
 } /* the new scrollbar will have a flat appearance with the set background color */
  
 ::-webkit-scrollbar-thumb {
-	background-color: #cccccc;
+	background-color: #e7feff;
 	border-width: 2px;
 	border-style: groove ridge ridge groove;
 	border-color: #ffffff #000000 #000000 #ffffff;
 } /* this will style the thumb, ignoring the track */
  
 ::-webkit-scrollbar-button {
-	background-color: #cccccc;
+	background-color: #e7feff;
 	border-width: 2px;
 	border-style: groove ridge ridge groove;
 	border-color: #ffffff #000000 #000000 #ffffff;
