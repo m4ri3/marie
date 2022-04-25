@@ -12,6 +12,8 @@ intro: true
 <style>
 .myDiv {
   text-align: center;
+  width: 243 px;
+  height: 243 px;
 }
 </style>
 </head>
