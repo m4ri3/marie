@@ -4,5 +4,5 @@ intro: true
 ---
 
 {:refdef: style="text-align: center;"}
-![Marie]({{Marie}}/marie/assets/img/ARMINS ASS.png)
+![Marie]({{Marie}}/marie/assets/img/ARMINSASS.png)
 {: refdef}
